@@ -60,5 +60,10 @@ func main() {
 	iniSlace := []int{1, 2, 3, 4, 5}
 	
 	fmt.Println(iniArray)
-	fmt.Println(iniSlace)	
+	fmt.Println(iniSlace)
+	
+	fmt.Println(iniArray)
+	fmt.Println(iniSlace)
+	fmt.Println(iniArray)
+	fmt.Println(iniSlace)
 }
