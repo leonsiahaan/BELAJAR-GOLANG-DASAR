@@ -1,0 +1,3 @@
+module BELAJAR-GOLANG-DASAR
+
+go 1.25.5
