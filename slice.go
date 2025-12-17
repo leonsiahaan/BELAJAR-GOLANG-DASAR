@@ -62,8 +62,4 @@ func main() {
 	fmt.Println(iniArray)
 	fmt.Println(iniSlace)
 	
-	fmt.Println(iniArray)
-	fmt.Println(iniSlace)
-	fmt.Println(iniArray)
-	fmt.Println(iniSlace)
 }
