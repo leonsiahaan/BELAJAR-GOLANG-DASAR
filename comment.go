@@ -6,7 +6,7 @@ this comment spans multiple lines.
 This is a multi-line comment.
 This is a multi-line comment.
 This is a multi-line comment.
-This is a multi-line comment.
+
 */
 
 func main() {
